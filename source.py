@@ -2,6 +2,8 @@ from trello import TrelloClient
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# DOCSTRINGS TO BE MADE!!!!
+
 def client_init(direc_key, direc_token):
     '''
     '''
