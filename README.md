@@ -3,7 +3,7 @@ Some fun with the Trello API
 
 ---
 
-Main goal of this mini project was to visualize my user Activity in recent years. 
+The main goal of this mini project was to visualize my user Activity in recent years. 
 
 To see a result, take a look at example.ipynb
 
