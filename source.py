@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 def client_init(the_api_key, the_token, from_file=True):
     """ Initialization of Trello API client
 
-    Using
-
     Parameters
     ----------
     the_api_key: str
